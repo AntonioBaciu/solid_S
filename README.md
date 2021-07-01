@@ -1,4 +1,4 @@
-### Use 'npm start dev' to start the web server then go to 'localhost:1234' in your browser.
+### Use 'npm run dev' to start the web server then go to 'localhost:1234' in your browser.
 
 # Single responsibility principle
 
